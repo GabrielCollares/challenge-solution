@@ -37,7 +37,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/your-repo-name)
+- Solution URL: [Add solution URL here](https://user-images.githubusercontent.com/134714036/256267951-21d32078-00a2-4aea-8658-9242d8461041.png)
 - Live Site URL: [Add live site URL here](https://your-repo-name.github.io)
 
 ## My process
@@ -94,13 +94,12 @@ Use this section to outline areas that you want to continue focusing on in futur
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- FreeCodeCamp - [@yourusername](https://freecodecamp.org/profile/yourusername)
-- Github - [@yourusername](https://github.com/yourusername)
+- FreeCodeCamp - [@yourusername](https://freecodecamp.org/profile/GabrielCollares)
+- Github - [@yourusername](https://github.com/GabrielCollares)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+I would like to thank my friend rodrigo neto who helped me with the project and had the patience I didn't have
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
