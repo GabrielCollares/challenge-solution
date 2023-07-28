@@ -37,7 +37,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://user-images.githubusercontent.com/134714036/256267951-21d32078-00a2-4aea-8658-9242d8461041.png)
+- Solution URL: <img src="https://user-images.githubusercontent.com/134714036/256267951-21d32078-00a2-4aea-8658-9242d8461041.png"></img>
 - Live Site URL: [Add live site URL here](https://your-repo-name.github.io)
 
 ## My process
